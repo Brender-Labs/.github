@@ -1,6 +1,6 @@
 # Brender Labs
 
-![Brender Labs Logo](bl-banner.svg)
+![Brender Labs Logo](./bl-banner.svg)
 
 ## About Us
 
