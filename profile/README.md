@@ -1,6 +1,6 @@
 # Brender Labs
 
-![Brender Labs Logo](./bl-banner.svg)
+![Brender Labs Logo](https://github.com/Brender-Labs/.github/blob/main/profile/bl-banner.svg)
 
 ## About Us
 
